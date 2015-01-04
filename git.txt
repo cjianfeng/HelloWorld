@@ -1,1 +1,7 @@
-这个是测试提交的东西
+    本地更新后合并
+        1、登录GitHub创建Respository
+        2、将项目克隆至本地（先使用cd进入相应目录后）：git clone https://github.com/cjianfeng/HelloWorld.git
+        3、创建README.md，详见附件
+        4、添加README.md文件并提交：git add README.md
+        5、上传至服务器：git commit -m "提交内容必输"
+        6、推送至GitHub，完成版本库初始化：git push origin master
